@@ -54,6 +54,6 @@ privacy policies for how they handle purchase data.</p>
 updated and the effective date revised before that version is released.</p>
 
 <h2>Contact</h2>
-<p>Questions about this policy: <a href="mailto:niyioyesiji@gmail.com">niyioyesiji@gmail.com</a></p>
+<p>Questions about this policy: <a href="mailto:ecofactltd@gmail.com">ecofactltd@gmail.com</a></p>
 </body>
 </html>
